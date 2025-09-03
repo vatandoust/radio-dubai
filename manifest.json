@@ -1,0 +1,66 @@
+{
+  "name": "Radio Universal",
+  "short_name": "Radio Universal",
+  "description": "Escucha la mejor radio las 24 horas del día, desde cualquier dispositivo.",
+  "start_url": "/?source=pwa",
+  "display": "standalone",
+  "background_color": "#ffff00",
+  "theme_color": "#ffff00",
+  "orientation": "portrait-primary",
+  "lang": "es",
+  "scope": "/",
+  "dir": "ltr",
+  "categories": ["music", "audio", "radio", "entertainment"],
+  "prefer_related_applications": false,
+
+  "icons": [
+    {
+      "src": "assets/icono-pwa/icon_72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icono-pwa/icon_96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icono-pwa/icon_128.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icono-pwa/icon_144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icono-pwa/icon_152.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icono-pwa/icon_192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icono-pwa/icon_384.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icono-pwa/icon_512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

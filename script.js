@@ -1,4 +1,4 @@
-const audio = new Audio('https://radio.streamingcpanel.com/8038/stream');
+const audio = new Audio('https://a10.asurahosting.com:7070/radio.mp3');
 const playButton = document.getElementById('play-button');
 const playIcon = document.getElementById('play-icon');
 const progress = document.getElementById('progress');

@@ -1,4 +1,4 @@
-const audio = new Audio('https://a10.asurahosting.com:7070/radio.mp3');
+const audio = new Audio('https://a10.asurahosting.com/public/radio-dubai');
 const playButton = document.getElementById('play-button');
 const playIcon = document.getElementById('play-icon');
 const progress = document.getElementById('progress');
